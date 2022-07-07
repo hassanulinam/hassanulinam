@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **talk-a-tive (a chatting app)**
 
-- 🌱 I’m currently learning **integrating MongoDB with Node.js**
+- 🌱 I’m currently learning **integrating MongoDB with Node.js (mongoose)**
 
 - 💬 Ask me about **html, css, javascript, react**
 
