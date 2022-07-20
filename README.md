@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hassanulinam143@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LJz3RpoKz6j4GaA0v9wqCW4X-8AcoF4y/edit?usp=sharing&ouid=110896037977003779476&rtpof=true&sd=true](https://docs.google.com/document/d/1LJz3RpoKz6j4GaA0v9wqCW4X-8AcoF4y/edit?usp=sharing&ouid=110896037977003779476&rtpof=true&sd=true)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1oBPNh5IUPytDhoIhhiIE07gHcLqdWemhxQqNAaE2jJI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
