@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanulinam&label=Profile%20views&color=0e75b6&style=flat" alt="hassanulinam" /> </p>
 
-- 🔭 I’m currently working on **talk-a-tive (a chatting app)**
-
-- 🌱 I’m currently learning **integrating MongoDB with Node.js (mongoose)**
-
 - 💬 Ask me about **html, css, javascript, react**
 
 - 📫 How to reach me **hassanulinam143@gmail.com**
