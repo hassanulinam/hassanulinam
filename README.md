@@ -8,8 +8,10 @@
   />
 </p>
 
-- 💬 Ask me about **html, css, javascript, react** - 📫 How to reach me
-**hassanulinam143@gmail.com** - 📄 Know about my experiences [My
+- 💬 Ask me about **html, css, javascript, react** 
+- 📫 How to reach me
+**hassanulinam143@gmail.com** 
+- 📄 Know about my experiences [My
 Resume](https://docs.google.com/document/d/1oBPNh5IUPytDhoIhhiIE07gHcLqdWemhxQqNAaE2jJI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
