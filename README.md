@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Inamul Hassan</h1>
-<h3 align="center">A passionate Reactjs developer.</h3>
+<h3 align="center">A passionate Frontend developer.</h3>
 
 <p align="left">
   <img
@@ -12,7 +12,7 @@
 - 📫 How to reach me
 **hassanulinam143@gmail.com** 
 - 📄 Know about my experiences [My
-Resume](https://docs.google.com/document/d/1oBPNh5IUPytDhoIhhiIE07gHcLqdWemhxQqNAaE2jJI/edit?usp=sharing)
+Resume](https://docs.google.com/document/d/14lzEBZYOpVrMet4l1pDrpHlBI1lzoSJlwL77WHD6Ppc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
