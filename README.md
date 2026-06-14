@@ -12,7 +12,7 @@
 - 📫 How to reach me
 **hassanulinam143@gmail.com** 
 - 📄 Know about my experiences [My
-Resume](https://docs.google.com/document/d/14lzEBZYOpVrMet4l1pDrpHlBI1lzoSJlwL77WHD6Ppc/edit?usp=sharing)
+Resume](https://drive.google.com/file/d/1IDwbUcBML0rU7Gfe11RH-Gv0entSmcwO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
